@@ -1,0 +1,46 @@
+h3 {
+  color: black;
+}
+
+/* <uniquifier>: Use a unique and descriptive class name*/
+
+.open-sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+/* navigation header title */
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+}
+
+nav ul li {
+  list-style: none;
+  margin-right: 50px;
+}
+
+.li-format{
+
+  background-color: #fb6e0b;
+  border-radius: 5px;
+}
+
+.navigation-title {
+
+  font-size: 50px;
+}
+
+.name-part {
+  color: #fd6e0a;
+}
